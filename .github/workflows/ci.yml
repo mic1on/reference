@@ -6,7 +6,7 @@ on:
 
 jobs:
   build:
-    if: github.repository == 'miclon-dev/reference'
+    if: github.repository == 'mic1on/reference'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3

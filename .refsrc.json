@@ -1,7 +1,7 @@
 {
-  "title": "代码领悟 - 编程参考",
+  "title": "MicLon 编程参考",
   "description": "{{description}}，为开发人员分享快速参考备忘单。",
-  "keywords": "code05,代码领悟,reference,Quick,Reference,cheatsheet,cheat,sheet",
+  "keywords": "reference,Quick,Reference,cheatsheet,cheat,sheet",
   "data-info": "",
   "search": {
     "label": "搜索",
@@ -17,7 +17,7 @@
   },
   "home": {
     "label": "首页",
-    "url": "https://code05.com"
+    "url": "https://52caiji.com"
   },
   "footer": "<br />",
   "license": "Copyright (c) <b>2022</b>"
